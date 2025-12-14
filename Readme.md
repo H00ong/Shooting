@@ -1,1 +1,1 @@
-Shooting Gmae
+Shooting Game
